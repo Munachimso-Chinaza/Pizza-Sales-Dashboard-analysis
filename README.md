@@ -30,7 +30,7 @@ This project presents a complete data analytics pipeline for pizza sales. I used
 4. Run Python scripts in `src/` folder
 5. Open the Tableau workbook (.twbx) in the `tableau/` folder
 
-## Tableau Sreenshot (Link)
+## Tableau Sreenshot 2026-07-12 (1).png (Link)
   https://public.tableau.com/views/PizzaSalesOverview_17812798550950/SalesDashboard?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link
 
 ## Future Improvements
