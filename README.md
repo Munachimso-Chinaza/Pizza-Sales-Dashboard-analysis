@@ -17,9 +17,7 @@ This project presents a complete data analytics pipeline for pizza sales. I used
 2. Loaded raw data into MySQL and cleaned it thoroughly
 3. Connected cleaned data to Tableau and created visualizations
 4. Interpreted results to provide actionable recommendations
-![2nd Dashboard(2nd%20Dashboard.png)](2nd%20Dashboard.png)
-![Python Script(supply_cleaned.ipynb)](supply_cleaned.ipynb)
-[Python Script](supply_cleaned.ipynb)
+
 ## Key Insights
 - Identified top-selling pizza categories and individual items
 - Discovered peak sales days and months for better staffing
